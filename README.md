@@ -31,4 +31,4 @@ A aplicação utiliza planilhas como base de dados, permitindo criar, editar e a
 1. Clone este repositório:
    ```bash
    git clone https://github.com/GustavoRodrigues-dev12/estoque.git
-   cd gestao-estoque-pandas
+   cd estoque
